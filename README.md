@@ -28,3 +28,15 @@ dashboard/
 reports/
 images/
 ```
+## Week 1 Progress
+
+Completed Tasks:
+
+- Project Setup
+- Raw Dataset Collection
+- Data Understanding
+- Data Quality Assessment
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis
+
